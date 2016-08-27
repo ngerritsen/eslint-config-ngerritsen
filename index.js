@@ -1,12 +1,12 @@
 module.exports = {
   extends: [
     'eslint:recommended',
-    './eslint/best-practices.json',
-    './eslint/errors.json',
-    './eslint/esnext.json',
-    './eslint/node.json',
-    './eslint/strict-mode.json',
-    './eslint/style.json',
-    './eslint/variables.json'
+    './rules/best-practices.json',
+    './rules/errors.json',
+    './rules/esnext.json',
+    './rules/node.json',
+    './rules/strict-mode.json',
+    './rules/style.json',
+    './rules/variables.json'
   ]
 };
