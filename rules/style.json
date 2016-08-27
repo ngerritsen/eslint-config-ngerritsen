@@ -39,7 +39,10 @@
     "keyword-spacing": 2,
     "linebreak-style": 2,
     "lines-around-comment": [
-      2
+      2,
+      {
+        "beforeBlockComment": false
+      }
     ],
     "max-depth": [2, 3],
     "max-len": [2, 120],
