@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "no-extra-parens": 2,
+    "no-prototype-builtins": 0,
+    "no-template-curly-in-string": 2,
+    "no-unsafe-negation": 2,
+    "valid-jsdoc": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-ngerritsen",
+  "version": "0.1.0",
+  "description": "My personal eslint rules",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngerritsen/eslint-config-ngerritsen.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "ngerritsen"
+  ],
+  "peerDependencies": {
+    "eslint": ">=3.3.0"
+  },
+  "author": "Niels Gerritsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngerritsen/eslint-config-ngerritsen/issues"
+  },
+  "homepage": "https://github.com/ngerritsen/eslint-config-ngerritsen#readme"
+}
