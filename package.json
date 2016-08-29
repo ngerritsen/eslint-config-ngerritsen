@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-ngerritsen",
-  "version": "0.1.4",
-  "description": "My personal eslint rules",
+  "version": "0.1.5",
+  "description": "My recommended eslint rules",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ngerritsen/eslint-config-ngerritsen.git"
