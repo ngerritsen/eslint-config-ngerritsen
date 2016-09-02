@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ngerritsen",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "My recommended eslint rules",
   "repository": {
     "type": "git",
