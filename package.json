@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ngerritsen",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "My recommended eslint rules",
   "repository": {
     "type": "git",
@@ -13,8 +13,7 @@
   ],
   "peerDependencies": {
     "eslint": ">=3.12",
-    "eslint-plugin-import": ">=2.2",
-    "eslint-plugin-filenames": ">=1.0"
+    "eslint-plugin-import": ">=2.2"
   },
   "author": "Niels Gerritsen",
   "license": "ISC",
