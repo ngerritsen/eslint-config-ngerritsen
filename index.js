@@ -12,7 +12,6 @@ module.exports = {
     './rules/variables.json'
   ],
   plugins: [
-    'import',
-    'filenames'
+    'import'
   ]
 }
